@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Roopasree1
-- 👀 I’m interested in web development
-- 🌱  I am currently pursuing my third year Bachelor of Engineering in Computer Science Engineering(Cyber Security)..
+- 👀 Cyber Security, Web Development
 - 📫 You can reach me using my email ( sreeroopa718@gmail.com )
 
 <!---
